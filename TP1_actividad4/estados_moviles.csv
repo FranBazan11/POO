@@ -1,0 +1,15 @@
+movil,estado,distancia_recorrida
+MovilSinNombre,detenido,0
+SW4,detenido,0
+TITO,detenido,0
+SW4,en_movimiento,20
+TITO,en_movimiento,30
+SW4,en_movimiento,40
+TITO,en_movimiento,60
+SW4,en_movimiento,60
+TITO,en_movimiento,90
+SW4,en_movimiento,76
+TITO,detenido,90
+MovilSinNombre,detenido,0
+SW4,en_movimiento,76
+TITO,detenido,90
